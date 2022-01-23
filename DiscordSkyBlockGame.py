@@ -7,7 +7,7 @@ import random
 
 print("Il bot si sta avviando")
 
-token = "OTM0NzU5NjQyNjE2MTkzMTI1.Ye0wwQ.srD53upveeNMze_2gQ9xjWZiPvM"
+token = ""
 
 
 client = commands.Bot(command_prefix="!")
